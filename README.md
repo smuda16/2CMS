@@ -14,6 +14,4 @@ The architect of the apartments the company is constructing for its customers ha
 
 The workers, who are able of building the apartments have to check in and check out the time they are working per day.
 
-Another type of system user are the buyers of the apartments/customers. They can view the apartments they are putting money on.
-
 All in all, this sytem tries to put the management process in a construction company inside a digitalized, error-free and efficient tool.
